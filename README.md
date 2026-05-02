@@ -24,13 +24,6 @@ To build an ESG-based scoring approach and evaluate company risk levels.
 - Avoid high-risk companies in Energy & Transportation
 - Maintain diversified ESG portfolio
 
-## 📊 Dashboard Preview
-(Add your screenshot here)
-
-## 📁 Files Included
-- ESG_Project_Report.docx
-- Dashboard Screenshot
-- (Optional) Python Code
 
 ## 🧠 Key Takeaway
 High ESG performance indicates lower risk and better long-term returns.
